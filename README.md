@@ -55,7 +55,7 @@ class Developer:
 
 | 프로젝트 | 설명 | 기술 스택 | 기간 |
 |---------|------|----------|------|
-| [🌏 EvacuationGuide](https://github.com/Cinema-Paradiso/EvacuationGuide) | 지진 발생 시 사용자 위치 기반 대피소 안내 모바일 서비스 | Java · Spring Boot · MySQL · AWS EC2 · Flutter | 2024.01–10 |
+| [🌏 EvacuationGuide](https://github.com/orgs/EvacuationGuide/repositories) | 지진 발생 시 사용자 위치 기반 대피소 안내 모바일 서비스 | Java · Spring Boot · MySQL · AWS EC2 · Flutter | 2024.01–10 |
 | [💬 나와산책](https://github.com/nawasancheck) | 대화 파트너 매칭 모바일 플랫폼 — 재이용률 30%→47% 개선 | Flutter · Dart · GitHub Flow | 2021.03–2022.09 |
 | [🌿 K-CAMT Hackathon](https://github.com/K-CAMT-ChiangMai-hackathon-team11) | 에코드라이빙 솔루션 GreenFlow — GPS 방위각 알고리즘 구현 | Python · Haversine · GPS | 2024.12 |
 
